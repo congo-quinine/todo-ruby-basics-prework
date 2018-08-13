@@ -8,11 +8,11 @@ end
 
 def argue(arg)
   return arg
-  
+
 end
 
 def greeting(name, hello)
-  
+
 end
 
 def return_a_value
